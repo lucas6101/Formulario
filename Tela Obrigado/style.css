@@ -15,8 +15,8 @@ img {
 }
 
 body {
-  background: rgb(35, 140, 150);
-  background: radial-gradient(circle, rgba(35, 140, 150, 1) 0%, rgba(0, 0, 0, 1) 100%);
+  background: rgba(0, 0, 0, 1);
+  background: radial-gradient(circle, rgba(49, 4, 71, 0.551) 0%, rgba(0, 0, 0, 1) 100%);
 }
 
 h1 {
