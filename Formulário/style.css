@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   outline: none;
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 
@@ -15,8 +15,7 @@ img {
 }
 
 body {
-  background: rgb(35, 140, 150);
-  background: radial-gradient(circle, rgba(35, 140, 150, 1) 0%, rgba(0, 0, 0, 1) 100%);
+  background-image: url(./fundo.png);
 }
 
 h1 {
@@ -50,12 +49,12 @@ form {
 
 input,
 textarea {
-  background-color: #c1c1c1;
+  background-color: #c1c1c182;
   min-width: 320px;
   display: block;
   margin: 0 auto;
   border-radius: 20px;
-  border: 1px solid #c1c1c1;
+  border: 1px solid #c1c1c182;
   margin-top: 20px;
   height: 40px;
   padding-left: 10px;
@@ -70,8 +69,8 @@ textarea {
 }
 
 button {
-  color: #242323;
-  background-color: rgb(99, 199, 208);
+  color: #090909;
+  background-color:rgb(178, 65, 219);
   display: block;
   margin: 0 auto;
   height: 40px;
