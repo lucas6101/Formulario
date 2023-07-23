@@ -7,17 +7,12 @@
 }
 
 
-img {
-  display: block;
-  text-align: center;
-  margin: 0 auto;
-    padding: 108px;
-}
-
 body {
-  background: rgba(0, 0, 0, 1);
-  background: radial-gradient(circle, rgba(49, 4, 71, 0.551) 0%, rgba(0, 0, 0, 1) 100%);
-}
+    background-image: url(.//image/fund.png);
+width: 100vw;
+height: 100vh; 
+  }
+
 
 h1 {
   color: #c1c1c1;
